@@ -1,0 +1,161 @@
+[
+      {
+            "Location": "12.922270,77.584290",
+            "Name": "Barber shop 1",
+            "Rating": 5.0,
+            "Photo": null,
+            "WorkingHours": {
+                  "Monday": "9:00 am - 8:00 pm",
+                  "Tuesday": "9:00 am - 8:00 pm",
+                  "Wednesday": "9:00 am - 8:00 pm",
+                  "Thursday": "9:00 am - 8:00 pm",
+                  "Friday":"9:00 am - 8:00 pm",
+                  "Saturday":"9:00 am - 8:00 pm",
+                  "Sunday":"9:00 am - 8:00 pm"
+            }
+      },
+      {
+            
+            "Location": "12.97194,77.59369",
+            "Name": "Barber shop 2",
+            "Rating": 4.5,
+            "Photo": null,
+            "WorkingHours": {
+                  "Monday": "10:00 am - 8:00 pm",
+                  "Tuesday": "10:00 am - 8:00 pm",
+                  "Wednesday": "10:00 am - 8:00 pm",
+                  "Thursday": "10:00 am - 8:00 pm",
+                  "Friday": "10:00 am - 8:00 pm",
+                  "Saturday": "10:00 am - 8:00 pm",
+                  "Sunday": "10:00 am - 8:00 pm"
+            }
+      },
+      {
+            
+            "Location": "12.98913,77.60231",
+            "Name": "Barber shop 3",
+            "Rating": 4.3,
+            "Photo": null,
+            "WorkingHours": {
+                  "Monday": "10:00 am - 6:00 pm",
+                  "Tuesday":"10:00 am - 6:00 pm",
+                  "Wednesday": "10:00 am - 6:00 pm",
+                  "Thursday":"10:00 am - 6:00 pm",
+                  "Friday":"10:00 am - 6:00 pm",
+                  "Saturday":"10:00 am - 6:00 pm",
+                  "Sunday": null
+            }
+      },
+      {
+            
+            "Location": "12.722270,77.586490",
+            "Name":  "Barber shop 4",
+            "Rating": 3.8,
+            "Photo": null,
+            "WorkingHours": {
+                  "Monday": "9:00 am - 9:00 pm",
+                  "Tuesday":"9:00 am - 9:00 pm",
+                  "Wednesday": "9:00 am - 9:00 pm",
+                  "Thursday": "9:00 am - 9:00 pm",
+                  "Friday": "9:00 am - 9:00 pm",
+                  "Saturday": "9:00 am - 9:00 pm",
+                  "Sunday": null
+            }
+      },
+      {
+            
+            "Location": "12.87194,77.69369",
+            "Name": "Barber shop 5",
+            "Rating": 5,
+            "Photo": null,
+            "WorkingHours": {
+                  "Monday": "10:00 am - 8:00 pm",
+                  "Tuesday": "10:00 am - 8:00 pm",
+                  "Wednesday": "10:00 am - 8:00 pm",
+                  "Thursday": "10:00 am - 8:00 pm",
+                  "Friday": "10:00 am - 8:00 pm",
+                  "Saturday": "10:00 am - 8:00 pm",
+                  "Sunday" : "10:00 am - 8:00 pm"
+            }
+      },
+      {
+            
+            "Location": "12.83194,77.63369",
+            "Name": "Barber shop 6",
+            "Rating": 3.2,
+            "Photo": null,
+            "WorkingHours": {
+                  "Monday": "10:00 am - 6:00 pm",
+                  "Tuesday": "10:00 am - 6:00 pm",
+                  "Wednesday": "10:00 am - 6:00 pm",
+                  "Thursday": "10:00 am - 6:00 pm",
+                  "Friday": "10:00 am - 6:00 pm",
+                  "Saturday": null,
+                  "Sunday": null
+            }
+      },
+      {
+            
+            "Location": "12.73194,77.63369", 
+            "Name": "Barber shop 7",
+            "Rating": 3.9,
+            "Photo": null,
+            "WorkingHours": {
+                  "Monday": "11:00 am - 7:00 pm",
+                  "Tuesday": "11:00 am - 7:00 pm",
+                  "Wednesday": "11:00 am - 7:00 pm",
+                  "Thursday": "11:00 am - 7:00 pm",
+                  "Friday": "11:00 am - 7:00 pm",
+                  "Saturday": "11:00 am - 7:00 pm",
+                  "Sunday": "11:00 am - 7:00 pm"
+            }
+      },
+      {
+            
+            "Location": "12.98913,77.40231",
+            "Name": "Barber shop 8",
+            "Rating": 4.7,
+            "Photo": null,
+            "WorkingHours": {
+                  "Monday": "10:00 am - 8:00 pm",
+                  "Tuesday": "10:00 am - 8:00 pm",
+                  "Wednesday": "10:00 am - 8:00 pm",
+                  "Thursday": "10:00 am - 8:00 pm",
+                  "Friday": "10:00 am - 8:00 pm",
+                  "Saturday": null,
+                  "Sunday": "10:00 am - 8:00 pm"
+            }
+      },
+      {
+            
+            "Location": "12.48913,77.40231",
+            "Name": "Barber shop 9",
+            "Rating": 4.3,
+            "Photo": null,
+            "WorkingHours": {
+                  "Monday": "10:00 am - 10:00 pm",
+                  "Tuesday": "10:00 am - 10:00 pm",
+                  "Wednesday": "10:00 am - 10:00 pm",
+                  "Thursday": "10:00 am - 10:00 pm",
+                  "Friday": "10:00 am - 10:00 pm",
+                  "Saturday": null,
+                  "Sunday": "10:00 am - 10:00 pm"
+            }
+      },
+      {
+            
+            "Location": "12.98913,77.40231",
+            "Name": "Barber shop 10",
+            "Rating": 4.7,
+            "Photo": null,
+            "WorkingHours": {
+                  "Monday": "9:00 am - 8:00 pm",
+                  "Tuesday": "9:00 am - 8:00 pm",
+                  "Wednesday": "9:00 am - 8:00 pm",
+                  "Thursday": "9:00 am - 8:00 pm",
+                  "Friday": "9:00 am - 8:00 pm",
+                  "Saturday": "9:00 am - 8:00 pm",
+                  "Sunday": null
+            }
+      }
+]

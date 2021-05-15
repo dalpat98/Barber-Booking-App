@@ -1,0 +1,540 @@
+[{
+
+            "MapData": {
+                  "Location": "12.922270,77.584290",
+                  "Name": "Barber shop 1",
+                  "Rating": 5.0,
+                  "Photo": null,
+                  "WorkingHours": {
+                        "Monday": "9:00 am - 8:00 pm",
+                        "Tuesday": "9:00 am - 8:00 pm",
+                        "Wednesday": "9:00 am - 8:00 pm",
+                        "Thursday": "9:00 am - 8:00 pm",
+                        "Friday": "9:00 am - 8:00 pm",
+                        "Saturday": "9:00 am - 8:00 pm",
+                        "Sunday": "9:00 am - 8:00 pm"
+                  }
+            },
+            "Services": [{
+                  "ServiceName": "HairCut",
+                  "Price": 100
+            }, {
+                  "ServiceName": "BeardTrim",
+                  "Price": 50
+            }, {
+                  "ServiceName": "Face-Massage",
+                  "Price": 120
+            }, {
+                  "ServiceName": "Hair-Color",
+                  "Price": 150
+            }, {
+                  "ServiceName": "Ecstacy",
+                  "Price": 400
+            }],
+            "Gallery": [
+                  null, null, null
+            ],
+            "Comments": [{
+                  "CommentorName": "customer 1",
+                  "Photo": null,
+                  "Time": "2020-01-14T13:46:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 2",
+                  "Photo": null,
+                  "Time": "2020-03-14T17:46:00:000Z",
+                  "Comment": "Comment 2: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 3",
+                  "Photo": null,
+                  "Time": "2020-04-01T19:06:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }]
+      },
+      {
+
+            "MapData": {
+            
+                  "Location": "12.97194,77.59369",
+                  "Name": "Barber shop 2",
+                  "Rating": 4.5,
+                  "Photo": null,
+                  "WorkingHours": {
+                        "Monday": "10:00 am - 8:00 pm",
+                        "Tuesday": "10:00 am - 8:00 pm",
+                        "Wednesday": "10:00 am - 8:00 pm",
+                        "Thursday": "10:00 am - 8:00 pm",
+                        "Friday": "10:00 am - 8:00 pm",
+                        "Saturday": "10:00 am - 8:00 pm",
+                        "Sunday": "10:00 am - 8:00 pm"
+                  }
+            },
+            "Services": [{
+                  "ServiceName": "HairCut",
+                  "Price": 80
+            }, {
+                  "ServiceName": "BeardTrim",
+                  "Price": 40
+            }, {
+                  "ServiceName": "Face-Massage",
+                  "Price": 100
+            }, {
+                  "ServiceName": "Hair-Color",
+                  "Price": 150
+            }, {
+                  "ServiceName": "Ecstacy",
+                  "Price": 500
+            }],
+            "Gallery": [
+                  null, null, null
+            ],
+            "Comments": [{
+                  "CommentorName": "customer 1",
+                  "Photo": null,
+                  "Time": "2020-02-13T20:46:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 2",
+                  "Photo": null,
+                  "Time": "2020-02-14T14:46:00:000Z",
+                  "Comment": "Comment 2: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 3",
+                  "Photo": null,
+                  "Time": "2020-05-01T19:06:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }]
+      },
+      {
+
+            "MapData": {
+            
+                  "Location": "12.98913,77.60231",
+                  "Name": "Barber shop 3",
+                  "Rating": 4.3,
+                  "Photo": null,
+                  "WorkingHours": {
+                        "Monday": "10:00 am - 6:00 pm",
+                        "Tuesday":"10:00 am - 6:00 pm",
+                        "Wednesday": "10:00 am - 6:00 pm",
+                        "Thursday":"10:00 am - 6:00 pm",
+                        "Friday":"10:00 am - 6:00 pm",
+                        "Saturday":"10:00 am - 6:00 pm",
+                        "Sunday": null
+                  }
+            },
+            "Services": [{
+                  "ServiceName": "HairCut",
+                  "Price": 120
+            }, {
+                  "ServiceName": "BeardTrim",
+                  "Price": 60
+            }, {
+                  "ServiceName": "Face-Massage",
+                  "Price": 160
+            }, {
+                  "ServiceName": "Hair-Color",
+                  "Price": 200
+            }, {
+                  "ServiceName": "Ecstacy",
+                  "Price": 700
+            }],
+            "Gallery": [
+                  null, null, null
+            ],
+            "Comments": [{
+                  "CommentorName": "customer 1",
+                  "Photo": null,
+                  "Time": "2020-01-03T04:46:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 2",
+                  "Photo": null,
+                  "Time": "2020-02-08T12:46:00:000Z",
+                  "Comment": "Comment 2: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 3",
+                  "Photo": null,
+                  "Time": "2020-04-11T16:06:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }]
+      },
+      {
+
+            "MapData": {
+            
+                  "Location": "12.722270,77.586490",
+                  "Name":  "Barber shop 4",
+                  "Rating": 3.8,
+                  "Photo": null,
+                  "WorkingHours": {
+                        "Monday": "9:00 am - 9:00 pm",
+                        "Tuesday":"9:00 am - 9:00 pm",
+                        "Wednesday": "9:00 am - 9:00 pm",
+                        "Thursday": "9:00 am - 9:00 pm",
+                        "Friday": "9:00 am - 9:00 pm",
+                        "Saturday": "9:00 am - 9:00 pm",
+                        "Sunday": null
+                  }
+            },
+            "Services": [{
+                  "ServiceName": "HairCut",
+                  "Price": 100
+            }, {
+                  "ServiceName": "BeardTrim",
+                  "Price": 60
+            }, {
+                  "ServiceName": "Face-Massage",
+                  "Price": 140
+            }, {
+                  "ServiceName": "Hair-Color",
+                  "Price": 200
+            }, {
+                  "ServiceName": "Ecstacy",
+                  "Price": 700
+            }],
+            "Gallery": [
+                  null, null, null
+            ],
+            "Comments": [{
+                  "CommentorName": "customer 1",
+                  "Photo": null,
+                  "Time": "2020-01-23T07:46:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 2",
+                  "Photo": null,
+                  "Time": "2020-02-21T15:46:00:000Z",
+                  "Comment": "Comment 2: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 3",
+                  "Photo": null,
+                  "Time": "2020-04-11T23:06:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }]
+      },
+      {
+
+            "MapData": {
+            
+                  "Location": "12.87194,77.69369",
+                  "Name": "Barber shop 5",
+                  "Rating": 5,
+                  "Photo": null,
+                  "WorkingHours": {
+                        "Monday": "10:00 am - 8:00 pm",
+                        "Tuesday": "10:00 am - 8:00 pm",
+                        "Wednesday": "10:00 am - 8:00 pm",
+                        "Thursday": "10:00 am - 8:00 pm",
+                        "Friday": "10:00 am - 8:00 pm",
+                        "Saturday": "10:00 am - 8:00 pm",
+                        "Sunday" : "10:00 am - 8:00 pm"
+                  }
+            },
+            "Services": [{
+                  "ServiceName": "HairCut",
+                  "Price": 200
+            }, {
+                  "ServiceName": "BeardTrim",
+                  "Price": 100
+            }, {
+                  "ServiceName": "Face-Massage",
+                  "Price": 300
+            }, {
+                  "ServiceName": "Hair-Color",
+                  "Price": 250
+            }, {
+                  "ServiceName": "Ecstacy",
+                  "Price": 900
+            }],
+            "Gallery": [
+                  null, null, null
+            ],
+            "Comments": [{
+                  "CommentorName": "customer 1",
+                  "Photo": null,
+                  "Time": "2020-03-23T09:46:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 2",
+                  "Photo": null,
+                  "Time": "2020-01-21T15:54:00:000Z",
+                  "Comment": "Comment 2: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 3",
+                  "Photo": null,
+                  "Time": "2020-05-11T23:35:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }]
+      },
+      {
+
+            "MapData": {
+            
+                  "Location": "12.83194,77.63369",
+                  "Name": "Barber shop 6",
+                  "Rating": 3.2,
+                  "Photo": null,
+                  "WorkingHours": {
+                        "Monday": "10:00 am - 6:00 pm",
+                        "Tuesday": "10:00 am - 6:00 pm",
+                        "Wednesday": "10:00 am - 6:00 pm",
+                        "Thursday": "10:00 am - 6:00 pm",
+                        "Friday": "10:00 am - 6:00 pm",
+                        "Saturday": null,
+                        "Sunday": null
+                  }
+            },
+            "Services": [{
+                  "ServiceName": "HairCut",
+                  "Price": 120
+            }, {
+                  "ServiceName": "BeardTrim",
+                  "Price": 60
+            }, {
+                  "ServiceName": "Face-Massage",
+                  "Price": 160
+            }, {
+                  "ServiceName": "Hair-Color",
+                  "Price": 200
+            }, {
+                  "ServiceName": "Ecstacy",
+                  "Price": 400
+            }],
+            "Gallery": [
+                  null, null, null
+            ],
+            "Comments": [{
+                  "CommentorName": "customer 1",
+                  "Photo": null,
+                  "Time": "2020-03-23T09:46:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 2",
+                  "Photo": null,
+                  "Time": "2020-02-28T19:02:00:000Z",
+                  "Comment": "Comment 2: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 3",
+                  "Photo": null,
+                  "Time": "2020-04-30T17:26:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }]
+      },
+      {
+
+            "MapData": {
+            
+                  "Location": "12.73194,77.63369", 
+                  "Name": "Barber shop 7",
+                  "Rating": 3.9,
+                  "Photo": null,
+                  "WorkingHours": {
+                        "Monday": "11:00 am - 7:00 pm",
+                        "Tuesday": "11:00 am - 7:00 pm",
+                        "Wednesday": "11:00 am - 7:00 pm",
+                        "Thursday": "11:00 am - 7:00 pm",
+                        "Friday": "11:00 am - 7:00 pm",
+                        "Saturday": "11:00 am - 7:00 pm",
+                        "Sunday": "11:00 am - 7:00 pm"
+                  }
+            },
+            "Services": [{
+                  "ServiceName": "HairCut",
+                  "Price": 90
+            }, {
+                  "ServiceName": "BeardTrim",
+                  "Price": 40
+            }, {
+                  "ServiceName": "Face-Massage",
+                  "Price": 100
+            }, {
+                  "ServiceName": "Hair-Color",
+                  "Price": 120
+            }, {
+                  "ServiceName": "Ecstacy",
+                  "Price": 300
+            }],
+            "Gallery": [
+                  null, null, null
+            ],
+            "Comments": [{
+                  "CommentorName": "customer 1",
+                  "Photo": null,
+                  "Time": "2020-01-23T07:46:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 2",
+                  "Photo": null,
+                  "Time": "2020-02-21T15:46:00:000Z",
+                  "Comment": "Comment 2: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 3",
+                  "Photo": null,
+                  "Time": "2020-04-11T23:06:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }]
+      },
+      {
+
+            "MapData": {
+            
+                  "Location": "12.98913,77.40231",
+                  "Name": "Barber shop 8",
+                  "Rating": 4.7,
+                  "Photo": null,
+                  "WorkingHours": {
+                        "Monday": "10:00 am - 8:00 pm",
+                        "Tuesday": "10:00 am - 8:00 pm",
+                        "Wednesday": "10:00 am - 8:00 pm",
+                        "Thursday": "10:00 am - 8:00 pm",
+                        "Friday": "10:00 am - 8:00 pm",
+                        "Saturday": null,
+                        "Sunday": "10:00 am - 8:00 pm"
+                  }
+            },
+            "Services": [{
+                  "ServiceName": "HairCut",
+                  "Price": 100
+            }, {
+                  "ServiceName": "BeardTrim",
+                  "Price": 60
+            }, {
+                  "ServiceName": "Face-Massage",
+                  "Price": 140
+            }, {
+                  "ServiceName": "Hair-Color",
+                  "Price": 200
+            }, {
+                  "ServiceName": "Ecstacy",
+                  "Price": 700
+            }],
+            "Gallery": [
+                  null, null, null
+            ],
+            "Comments": [{
+                  "CommentorName": "customer 1",
+                  "Photo": null,
+                  "Time": "2020-02-04T10:46:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 2",
+                  "Photo": null,
+                  "Time": "2020-02-22T12:46:00:000Z",
+                  "Comment": "Comment 2: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 3",
+                  "Photo": null,
+                  "Time": "2020-03-19T22:39:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }]
+      },
+      {
+
+            "MapData": {
+            
+                  "Location": "12.48913,77.40231",
+                  "Name": "Barber shop 9",
+                  "Rating": 4.3,
+                  "Photo": null,
+                  "WorkingHours": {
+                        "Monday": "10:00 am - 10:00 pm",
+                        "Tuesday": "10:00 am - 10:00 pm",
+                        "Wednesday": "10:00 am - 10:00 pm",
+                        "Thursday": "10:00 am - 10:00 pm",
+                        "Friday": "10:00 am - 10:00 pm",
+                        "Saturday": null,
+                        "Sunday": "10:00 am - 10:00 pm"
+                  }
+            },
+            "Services": [{
+                  "ServiceName": "HairCut",
+                  "Price": 100
+            }, {
+                  "ServiceName": "BeardTrim",
+                  "Price": 60
+            }, {
+                  "ServiceName": "Face-Massage",
+                  "Price": 140
+            }, {
+                  "ServiceName": "Hair-Color",
+                  "Price": 200
+            }, {
+                  "ServiceName": "Ecstacy",
+                  "Price": 700
+            }],
+            "Gallery": [
+                  null, null, null
+            ],
+            "Comments": [{
+                  "CommentorName": "customer 1",
+                  "Photo": null,
+                  "Time": "2020-02-23T07:46:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 2",
+                  "Photo": null,
+                  "Time": "2020-03-21T15:46:00:000Z",
+                  "Comment": "Comment 2: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 3",
+                  "Photo": null,
+                  "Time": "2020-04-11T23:06:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }]
+      },
+      {
+
+            "MapData": {
+            
+                  "Location": "12.98913,77.40231",
+                  "Name": "Barber shop 10",
+                  "Rating": 4.7,
+                  "Photo": null,
+                  "WorkingHours": {
+                        "Monday": "9:00 am - 8:00 pm",
+                        "Tuesday": "9:00 am - 8:00 pm",
+                        "Wednesday": "9:00 am - 8:00 pm",
+                        "Thursday": "9:00 am - 8:00 pm",
+                        "Friday": "9:00 am - 8:00 pm",
+                        "Saturday": "9:00 am - 8:00 pm",
+                        "Sunday": null
+                  }
+            },
+            "Services": [{
+                  "ServiceName": "HairCut",
+                  "Price": 100
+            }, {
+                  "ServiceName": "BeardTrim",
+                  "Price": 60
+            }, {
+                  "ServiceName": "Face-Massage",
+                  "Price": 140
+            }, {
+                  "ServiceName": "Hair-Color",
+                  "Price": 200
+            }, {
+                  "ServiceName": "Ecstacy",
+                  "Price": 700
+            }],
+            "Gallery": [
+                  null, null, null
+            ],
+            "Comments": [{
+                  "CommentorName": "customer 1",
+                  "Photo": null,
+                  "Time": "2020-01-13T07:46:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 2",
+                  "Photo": null,
+                  "Time": "2020-03-01T15:16:00:000Z",
+                  "Comment": "Comment 2: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }, {
+                  "CommentorName": "customer 3",
+                  "Photo": null,
+                  "Time": "2020-04-25T10:06:00:000Z",
+                  "Comment": "Comment 1: asfasfhasyufguadsfjksadhfuhadsufkd"
+            }]
+      } 
+]

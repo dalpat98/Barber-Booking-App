@@ -65,6 +65,25 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider staring the repo. :heart:
 
+        
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src = "https://img.shields.io/badge/instagram-c14438?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
+<br />
+<hr />
+
+[twitter]: https://twitter.com/DalpatDc
+[linkedin]: https://www.linkedin.com/in/dalpat-i-b5b451166/
+[instagram]: https://www.instagram.com/dalpat_chaudhary__/
+[Facebook]: https://www.facebook.com/dalpatchaudhary.blogspot.in/
+
+If you have any Queries or Suggestions, feel free to reach out to me.
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
 # License
 
     Copyright 2021 Dalpat I

@@ -62,6 +62,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 [Dalpat I](https://github.com/dalpat98)
 ([Instagram](https://www.instagram.com/dalpat_chaudhary__/))
+([WhatsApp](https://wa.me/+917073708192))
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider staring the repo. :heart:
 

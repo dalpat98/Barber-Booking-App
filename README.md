@@ -1,3 +1,7 @@
+# Connect on whatsapp for customized project with admin panel and full setup :
+[WhatsApp](https://wa.me/+917073708192) (DALPAT I)
+
+
 # Barber-Booking-App
 
 Barber Booking App (Part of Fashion recommendation system). You can see nearby available barbers and their services too. Book an appointment with barber on your preferred time and available slots.
